@@ -18,8 +18,8 @@ Gameplay will center around a combination of puzzle-solving and mechanical skill
 
 ## "Screenshots"
 ###
-(https://raw.githubusercontent.com/aeschwartz/IGME-230/master/capture.png)
-(https://raw.githubusercontent.com/aeschwartz/IGME-230/master/capture2.png)
+[screenshot of gameplay 1](https://raw.githubusercontent.com/aeschwartz/IGME-230/master/capture.png)
+[screenshot of gameplay 2](https://raw.githubusercontent.com/aeschwartz/IGME-230/master/capture2.png)
 
 ## About the Developer
 ###
