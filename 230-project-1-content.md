@@ -16,6 +16,11 @@ The game will have pixel art sprites for the characters, but also fully drawn ve
 ###
 Gameplay will center around a combination of puzzle-solving and mechanical skill, with a focus around character switching to navigate through certain parts of the world. Players will have 8-directional movement, a couple of buttons to use abilities, a button to switch characters, and access to an inventory. The game will accept controller and keyboard/mouse input although the mouse specifically may see little to no implementation at all. New players will learn the controls through small tool-tips and dialogue that appear at the beginning of certain parts of the world.
 
+## "Screenshots"
+###
+(https://raw.githubusercontent.com/aeschwartz/IGME-230/master/capture.png)
+(https://raw.githubusercontent.com/aeschwartz/IGME-230/master/capture2.png)
+
 ## About the Developer
 ###
 Andrew Schwartz is a second-year Game Design and Development major at Rochester Institute of Technology. He has worked in HTML, CSS, JavaScript, Java, Objective-C, C++, PHP, and C#, making both web and software applications, as well as video games. Andrew is currently searching for a co-op/internship for this upcoming summer.
